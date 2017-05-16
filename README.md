@@ -1,5 +1,5 @@
 # Titanic Survival
-*Udacity - Machine learning Nano Degree Program : Project 0*
+*Udacity - Machine learning Nano Degree Program : Project-0*
 
 # Project Overview
 *This is first project in the series of the projects listed in Udacity- Machine Learning Nano Degree Program.*
