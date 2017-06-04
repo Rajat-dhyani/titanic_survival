@@ -10,4 +10,8 @@ In addition, there are **two Python libraries:**
 * numpy and
 * pandas
 
-*that i have used in this project*
+that i have used in this project
+
+### Other Related Projects:
+* <strong> Project 1 : </strong> *[Boston's Houses Prediction](https://github.com/Rajat-dhyani/boston_housing)*
+* <strong> Project 2 : </strong> *[Charity Donors Prediction](https://github.com/Rajat-dhyani/charity_donors)*
