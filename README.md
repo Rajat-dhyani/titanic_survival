@@ -10,6 +10,9 @@
 * <strong> Project 1 : </strong> *[Boston's Houses Prediction](https://github.com/Rajat-dhyani/boston_housing)*
 * <strong> Project 2 : </strong> *[Charity Donors Prediction](https://github.com/Rajat-dhyani/charity_donors)*
 * <strong> Project 3 : </strong> *[Creating Cutomer Segments](https://github.com/Rajat-dhyani/creating_cutomer_segments)*
+* <strong> Project 4 : </strong> *[Smart Cab](https://github.com/Rajat-dhyani/smart-cab)*
+* <strong> Project 5 : </strong> *[ImageNetBot](https://github.com/Rajat-dhyani/ImageNetBot)*
+* <strong> Project 6 : </strong> *[Stock Price Predictor](https://github.com/Rajat-dhyani/Stock-Price-Predictor/)*
 
 ## Software and Libraries
 This project uses the following software and Python libraries:
